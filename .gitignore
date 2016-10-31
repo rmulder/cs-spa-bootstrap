@@ -1,0 +1,7 @@
+node_modules
+.idea
+dist/*.js
+dist/**
+!dist/index.html
+*/.DS_Store
+.DS_Store
